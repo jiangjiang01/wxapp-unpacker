@@ -31,5 +31,5 @@ TIP
 
 # window 下方法
 
-直接下载 `wxapkg.zip`，然后使用命令行工具进入到该工具目录，执行 `wxapkg.exe scan`，工具会自动扫描，选择要处理的小程序即可。
+直接下载 [`wxapkg.zip`](https://github.com/jiangjiang01/wxapp-unpacker/releases/tag/0.0.1)，然后使用命令行工具进入到该工具目录，执行 `wxapkg.exe scan`，工具会自动扫描，选择要处理的小程序即可。
 参考：[https://github.com/wux1an/wxapkg](https://github.com/wux1an/wxapkg)
